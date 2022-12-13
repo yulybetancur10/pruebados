@@ -1,5 +1,5 @@
 <html>
 	<head></head>
 	<body>
-	<p>parrafo1</p></body>
+	<p>parrafo1 y parrafo 2</p></body>
 </html>
